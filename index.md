@@ -5,4 +5,5 @@ Herr der Ringe dreht sich vor allem um Frodo, der den einen Ring zu zerstoeren h
 * Spezies: Hobbits
 * Trinkfest
 * Hat 13 Kinder
-<img src="http://www.quadru.de/Hobbys/Haustiere/brachy.JPG"/>
+> Allerdings ist nicht er der wahre Held
+> sondern sein Gaertner Sam und sein besster Freund
