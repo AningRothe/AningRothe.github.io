@@ -5,5 +5,7 @@ Herr der Ringe dreht sich vor allem um Frodo, der den einen Ring zu zerstoeren h
 * Spezies: Hobbits
 * Trinkfest
 * Hat 13 Kinder
-## sam said:
-> It’s like in the great stories, Mr. Frodo. The ones that really mattered. Full of darkness and danger they were.
+> It’s like in the great stories
+> Full of darkness and danger they were.
+
+waht you means?
